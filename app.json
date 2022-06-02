@@ -100,7 +100,7 @@
         "value": "United States",
         "required": false
     },
-    "WHOOGLE_CONFIG_LANGUAGE":
+    "WHOOGLE_CONFIG_LANGUAGE": {
         "description": "[CONFIG] The language to use for the interface (use values from https://raw.githubusercontent.com/benbusby/whoogle-search/develop/app/static/settings/languages.json)",
         "value": "English",
         "required": false
