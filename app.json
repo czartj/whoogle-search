@@ -97,17 +97,17 @@
     },
     "WHOOGLE_CONFIG_COUNTRY": {
         "description": "[CONFIG] The country to use for restricting search results (use values from https://raw.githubusercontent.com/benbusby/whoogle-search/develop/app/static/settings/countries.json)",
-        "value": "",
+        "value": "United States",
         "required": false
     },
     "WHOOGLE_CONFIG_LANGUAGE": {
         "description": "[CONFIG] The language to use for the interface (use values from https://raw.githubusercontent.com/benbusby/whoogle-search/develop/app/static/settings/languages.json)",
-        "value": "",
+        "value": "English",
         "required": false
     },
     "WHOOGLE_CONFIG_SEARCH_LANGUAGE": {
         "description": "[CONFIG] The language to use for search results (use values from https://raw.githubusercontent.com/benbusby/whoogle-search/develop/app/static/settings/languages.json)",
-        "value": "",
+        "value": "English",
         "required": false
     },
     "WHOOGLE_CONFIG_DISABLE": {
